@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+sfsdvz
+=======
+sfsdvz
+²»ÄÜÃ÷°×Äã
+>>>>>>> parent of 58cf678... Update test/index.txt
