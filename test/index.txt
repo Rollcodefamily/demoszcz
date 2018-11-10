@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-sfsdvzasfsdfd
-=======
->>>>>>> parent of e26118b... Update test/index.txt
-=======
-sfsdvz
->>>>>>> parent of 3c69682... Revert "Update test/index.txt"
+asd
